@@ -4,7 +4,7 @@ html, body {
 }
 body {
     color: #141414;
-    background-color: #88D498 ;
+    background-color: #3bc057 ;
 }
 .page-title {
     text-align: center;
@@ -36,7 +36,7 @@ body {
 }
     
 #sidebar {
-    background-color: #1A936F ;
+    background-color: #1a7193 ;
 }
     
 @media (min-width: 576px) {}
